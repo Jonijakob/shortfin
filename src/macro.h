@@ -5,8 +5,8 @@
 
 
 
-#define ENABLED(b) (1,b)
-#define DISABLED(b)(0,b)
+#define ENABLED(b)(1==b)
+#define DISABLED(b)(0==b)
 
 
 #endif
