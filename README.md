@@ -1,4 +1,4 @@
-## shortfin a system to control and track 3d prints prograss 
+## shortfin a system to control and track 3d prints progress 
 this frimware can be contol by serial Gcode command to move cameras
 in to axis 
 ## Features:
